@@ -4,6 +4,8 @@
 
 composer install
 
+# Install debugger
+# https://packagist.org/packages/barryvdh/laravel-debugbar
 
 cp .env.example .env 
 
