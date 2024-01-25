@@ -1,8 +1,9 @@
 # sysapp
 
-- Instalation
-
+Instalation
+```sh
 composer install
+```
 
 # Install debugger
 # https://packagist.org/packages/barryvdh/laravel-debugbar
