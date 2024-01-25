@@ -5,8 +5,10 @@ installatio
 composer install
 ```
 
-# Install debugger
-# https://packagist.org/packages/barryvdh/laravel-debugbar
+Install debugger
+
+Install larabel debugger [laravel-debugbar](https://packagist.org/packages/barryvdh/laravel-debugbar)
+
 
 ```sh
 cp .env.example .env 
