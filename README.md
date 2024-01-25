@@ -1,6 +1,6 @@
 # sysapp
 
-# Instalation
+- Instalation
 
 composer install
 
