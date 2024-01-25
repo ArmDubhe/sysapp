@@ -1,11 +1,11 @@
 # sysapp
 
-installation
+Installation
 ```sh
 composer install
 ```
 
-# Install debugger
+Install debugger
 # https://packagist.org/packages/barryvdh/laravel-debugbar
 
 ```sh
