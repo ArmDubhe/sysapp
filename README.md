@@ -1,6 +1,6 @@
 # sysapp
 
-installatio
+installation
 ```sh
 composer install
 ```
