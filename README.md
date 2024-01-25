@@ -4,11 +4,7 @@ Installation
 ```sh
 composer install
 ```
-
-Get and install the
-[debugger bar](https://packagist.org/packages/barryvdh/laravel-debugbar)
-
-
+Configuration
 
 ```sh
 cp .env.example .env 
@@ -17,3 +13,5 @@ php artisan key:generate
 
 php artisan serve
 ```
+Get and install the
+[debugger bar](https://packagist.org/packages/barryvdh/laravel-debugbar)
